@@ -4,9 +4,11 @@
 
 Aluno: Reginaldo Soares
 
+Professor: José de Assis
+
 Data: 09/003/2026
 
---
+---
 
 ## 1. Objetivo
 Implantar uma rede local simples conectando 3 notebooks a um roteador
@@ -17,7 +19,7 @@ O projeto será dividido em duas etapas:
 1. simulação da rede no cisco packet Tracer
 2. Implementação de rede no laboratório real
 
---
+---
 
 ## 2. Equipamentos utilizados neste laboratório:
 
@@ -26,7 +28,7 @@ O projeto será dividido em duas etapas:
 - 1 impressora de rede
 - cabos de rede
 
-- --
+---
 
 ## 3. Topologia da Rede
 
@@ -51,3 +53,11 @@ Router --> |LAN 2| PC2
 Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
 ```
+
+
+## Imagem da topologia usada neste laboratória:
+
+<img width="1158" height="653" alt="topologia" src="https://github.com/user-attachments/assets/45158dec-54b2-4374-a9ee-f9b3ed253831" />
+
+---
+
